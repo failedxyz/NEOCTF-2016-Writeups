@@ -1,9 +1,9 @@
-<b> Problem: </b>
+<b> Problem: </b> <br>
 Help! We have a limited amount of power and we can only show parts of the flag at a time! Can you help us???
 Given File: giphy.gif
 
 
-<b> Solution: </b>
+<b> Solution: </b> <br>
 
 If you combine all of the gif's images, you get:
 
