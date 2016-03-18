@@ -6,10 +6,10 @@ Given File: Last_Words.doc
 <b> Solution: </b> <br>
 
 You're looking at the doc file, see nothing suspicious... everything is normal. But what's this text?? <br>
-"<i>jr;[ ,r@@@ nrgptr o hp. jrtr od yjr g;sh” g;sh}f4sf+yu[2mh|</i>"
+<b>"<i>jr;[ ,r@@@ nrgptr o hp. jrtr od yjr g;sh” g;sh}f4sf+yu[2mh|</i>"</b>
 
 You may have to do a lot of testing on decoding this, and there really isn't any encoding method on making this text... other than the dying CTF developer couldn't see and had his hands shifted one space on his keyboard, so it translates to: <br>
-"<i>help me!!! before i go, here is the flag: flag{d3ad_typ1ng}</i>"
+<b>"<i>help me!!! before i go, here is the flag: flag{d3ad_typ1ng}</i>"</b>
 
 Flag: flag{d3ad_typ1ng}
 
