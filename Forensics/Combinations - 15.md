@@ -7,7 +7,7 @@ Given File: giphy.gif
 
 If you combine all of the gif's images, you get:
 
-![NEO](http://i.imgur.com/Kma1zam.png)
+![Combined Gif](http://i.imgur.com/Kma1zam.png)
 
 
 
