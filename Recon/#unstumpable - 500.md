@@ -1,7 +1,7 @@
 <b> Problem: </b> <br>
 Man, I wish I knew how to do this...
 
-![Trump Breakdance](http://i.imgur.com/hKbfs3Z.gifv)
+![Trump Breakdance](http://i.imgur.com/hKbfs3Z.gif)
 
 Hint: Adam learned how to do that a few months ago
 
